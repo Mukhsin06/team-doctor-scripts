@@ -1,0 +1,4 @@
+requests
+python-dotenv
+websocket-client>=1.8.0
+pynput>=1.7.6
